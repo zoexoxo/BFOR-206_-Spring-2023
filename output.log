@@ -1,0 +1,41 @@
+
+Mon Mar 6 08:19:59 PM EST 2023
+Mon Mar 6 08:23:37 PM EST 2023
+Mon Mar 6 08:29:04 PM EST 2023
+Mon Mar 6 08:30:31 PM EST 2023
+Mon Mar 6 08:30:39 PM EST 2023
+PING 58.96.36.1 (58.96.36.1) 56(84) bytes of data.
+
+--- 58.96.36.1 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 2055ms
+
+Mon Mar 6 08:31:58 PM EST 2023
+PING 58.96.36.1 (58.96.36.1) 56(84) bytes of data.
+
+--- 58.96.36.1 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 2054ms
+
+Wed Mar 8 02:06:52 PM EST 2023
+
+PING 58.96.36.1 (58.96.36.1) 56(84) bytes of data.
+
+--- 58.96.36.1 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 2047ms
+
+Mon Mar 13 07:23:16 PM EDT 2023
+
+PING 58.96.36.1 (58.96.36.1) 56(84) bytes of data.
+
+--- 58.96.36.1 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 2030ms
+
+PING google.com (142.251.40.142) 56(84) bytes of data.
+64 bytes from lga25s80-in-f14.1e100.net (142.251.40.142): icmp_seq=1 ttl=57 time=19.9 ms
+64 bytes from lga25s80-in-f14.1e100.net (142.251.40.142): icmp_seq=2 ttl=57 time=23.2 ms
+64 bytes from lga25s80-in-f14.1e100.net (142.251.40.142): icmp_seq=3 ttl=57 time=19.9 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2197ms
+rtt min/avg/max/mdev = 19.876/20.983/23.178/1.551 ms
+Mon Mar 13 07:26:06 PM EDT 2023
+
